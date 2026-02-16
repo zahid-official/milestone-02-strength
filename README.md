@@ -15,10 +15,6 @@ A modern, fully responsive fitness and gym website designed to promote healthy l
 - [Overview](#-overview)
 - [Features](#-features)
 - [Technologies Used](#️-technologies-used)
-- [Project Structure](#-project-structure)
-- [Key Sections](#-key-sections)
-- [Design Highlights](#-design-highlights)
-- [Author](#-author)
 
 ## 🎯 Overview
 
