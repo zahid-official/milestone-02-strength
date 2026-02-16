@@ -139,5 +139,4 @@ This project represents a significant step forward in frontend development, demo
 
 <div align="center">
   <p>⭐ Star this repository if you find it helpful!</p>
-  <p>Made with ❤️ for the fitness community</p>
 </div>
