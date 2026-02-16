@@ -10,12 +10,6 @@ A modern, fully responsive fitness and gym website designed to promote healthy l
   
 </div>
 
-## 📋 Table of Contents
-
-- [Overview](#-overview)
-- [Features](#-features)
-- [Technologies Used](#️-technologies-used)
-
 ## 🎯 Overview
 
 **Strength** is a comprehensive fitness website that aims to make fitness accessible to everyone, regardless of income or gym access. The platform offers free workout videos, expert training guidance, BMI calculation tools, and flexible pricing packages to suit different fitness goals and budgets.
