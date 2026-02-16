@@ -10,10 +10,6 @@ A modern, fully responsive fitness and gym website designed to promote healthy l
   
 </div>
 
-## 🚀 Live Demo
-
-Experience the website: **[View Live Site](https://zahid-official.github.io/milestone-02-strength/)**
-
 ## 📋 Table of Contents
 
 - [Overview](#-overview)
