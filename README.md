@@ -23,7 +23,6 @@ A modern, fully responsive fitness and gym website designed to promote healthy l
 - **👥 Team Showcase** - Meet professional trainers with detailed profiles
 - **💰 Pricing Plans** - Three flexible membership tiers (Starter, Premium, Elite)
 - **🖼️ Rich Media Gallery** - High-quality images showcasing exercises and training
-- **📊 Informative Sections** - Habit-changing tips, exercise demonstrations, and fitness statistics
 
 ## 🛠️ Technologies Used
 
